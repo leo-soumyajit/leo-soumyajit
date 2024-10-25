@@ -13,8 +13,8 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [soumyajit-banerjee-portfolio.netlify.app](soumyajit-banerjee-portfolio.netlify.app)
-
+- 👨‍💻 All of my projects are available at [All Repositories](https://github.com/leo-soumyajit?tab=repositories) 
+- 🚀 My official Portfolio  [Soumyajit Banerjee](soumyajit-banerjee-portfolio.netlify.app)
 - 📫 How to reach me **banerjeesoumyajit2005@gmail.com**
   
 ![](https://leetcard.jacoblin.cool/soumyajit_2005?ext=heatmap)
