@@ -16,46 +16,42 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-import java.util.*;
-
 public class Samiran {
-    String[] pronouns = {"He", "Him"};
-    List<String> code = Arrays.asList("TypeScript", "JavaScript", "Java", "Python", "Bash");
-    List<String> askMeAbout = Arrays.asList("backend dev", "system design", "DevOps", "IoT", "cloud", "CS fundamentals");
-    Technologies technologies = new Technologies();
-    Architecture architecture = new Architecture();
-    String currentFocus = "Building a smart healthcare system (Medicon) with AI, IoT, and cloud";
-    String funFact = "Can debug complex backend flows while sipping chai ☕ and listening to Lo-Fi beats!";
-
-    static class Technologies {
-        List<String> frontEnd = Arrays.asList("HTML", "CSS");
-        
-        Map<String, List<String>> backEnd = new HashMap<String, List<String>>() {{
-            put("js", Arrays.asList("Node.js", "Express.js", "NestJS"));
-        }};
-        
-        List<String> devOps = Arrays.asList("Docker🐳", "GitHub Actions", "Grafana", "Prometheus", "Loki", "CI/CD", "Nginx");
-        
-        Map<String, List<String>> cloudServices = new HashMap<String, List<String>>() {{
-            put("aws", Arrays.asList("EC2", "S3", "Lambda", "CloudWatch", "RDS"));
-        }};
-        
-        List<String> databases = Arrays.asList("MongoDB", "Redis", "MySQL");
-        List<String> misc = Arrays.asList("Postman", "Swagger", "Socket.IO", "WebSockets", "ZEGOCLOUD", "Twilio", "IoT sensors");
-        List<String> generativeAI = Arrays.asList("Chatbot", "GPT");
-    }
-
-    static class Architecture {
-        List<String> backEnd = Arrays.asList("monolithic", "microservices", "serverless");
-        List<String> devOps = Arrays.asList("Docker Compose", "CloudWatch Dashboards", "Prometheus Monitoring");
-        List<String> databases = Arrays.asList("Relational", "NoSQL", "In-memory");
-    }
-
     public static void main(String[] args) {
-        Samiran samiran = new Samiran();
-        System.out.println("Fun Fact: " + samiran.funFact);
+        String[] pronouns = {"He", "Him"};
+        String[] code = {"TypeScript", "JavaScript", "Java", "Python", "Bash"};
+        String[] askMeAbout = {"backend dev", "system design", "DevOps", "IoT", "cloud", "CS fundamentals"};
+
+        String[] frontEnd = {"HTML", "CSS"};
+
+        String[] backEndJS = {"Node.js", "Express.js", "NestJS"};
+
+        String[] devOps = {"Docker🐳", "GitHub Actions", "Grafana", "Prometheus", "Loki", "CI/CD", "Nginx"};
+
+        String[] aws = {"EC2", "S3", "Lambda", "CloudWatch", "RDS"};
+
+        String[] databases = {"MongoDB", "Redis", "MySQL"};
+
+        String[] misc = {"Postman", "Swagger", "Socket.IO", "WebSockets", "ZEGOCLOUD", "Twilio", "IoT sensors"};
+
+        String[] generativeAI = {"Chatbot", "GPT"};
+
+        String[] architectureBackEnd = {"monolithic", "microservices", "serverless"};
+        String[] architectureDevOps = {"Docker Compose", "CloudWatch Dashboards", "Prometheus Monitoring"};
+        String[] architectureDatabases = {"Relational", "NoSQL", "In-memory"};
+
+        String currentFocus = "Building a smart healthcare system (Medicon) with AI, IoT, and cloud";
+        String funFact = "Can debug complex backend flows while sipping chai ☕ and listening to Lo-Fi beats!";
+
+        System.out.println("Hi, I'm Samiran 👋");
+        System.out.println("Pronouns: " + String.join("/", pronouns));
+        System.out.println("Languages I Code In: " + String.join(", ", code));
+        System.out.println("Ask Me About: " + String.join(", ", askMeAbout));
+        System.out.println("Fun Fact: " + funFact);
+        System.out.println("Current Focus: " + currentFocus);
     }
 }
+
 
 
 
