@@ -13,41 +13,52 @@
 
 
 
-
-
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="Samiran2004 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const Samiran = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "JavaScript", "Java", "Python", "Bash"],
-    askMeAbout: ["backend dev", "system design", "DevOps", "IoT", "cloud", "CS fundamentals"],
-    technologies: {
-        frontEnd: {
-            [ "HTML", "CSS" ]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js", "NestJS"],
-        },
-        devOps: ["Docker🐳", "GitHub Actions", "Grafana", "Prometheus", "Loki", "CI/CD", "Nginx"],
-        cloudServices: {
-            aws: ["EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["MongoDB", "Redis", "MySQL"],
-        misc: ["Postman", "Swagger", "Socket.IO", "WebSockets", "ZEGOCLOUD", "Twilio", "IoT sensors"],
-        generativeAI: ["Chatbot", "GPT"],
-    },
-    architecture: {
-        backEnd: ["monolithic", "microservices", "serverless"],
-        devOps: ["Docker Compose", "CloudWatch Dashboards", "Prometheus Monitoring"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Building a smart healthcare system (Medicon) with AI, IoT, and cloud",
-    funFact: "Can debug complex backend flows while sipping chai ☕ and listening to Lo-Fi beats!"
-};
-```
+
+import java.util.*;
+
+public class Samiran {
+    String[] pronouns = {"He", "Him"};
+    List<String> code = Arrays.asList("TypeScript", "JavaScript", "Java", "Python", "Bash");
+    List<String> askMeAbout = Arrays.asList("backend dev", "system design", "DevOps", "IoT", "cloud", "CS fundamentals");
+    Technologies technologies = new Technologies();
+    Architecture architecture = new Architecture();
+    String currentFocus = "Building a smart healthcare system (Medicon) with AI, IoT, and cloud";
+    String funFact = "Can debug complex backend flows while sipping chai ☕ and listening to Lo-Fi beats!";
+
+    static class Technologies {
+        List<String> frontEnd = Arrays.asList("HTML", "CSS");
+        
+        Map<String, List<String>> backEnd = new HashMap<String, List<String>>() {{
+            put("js", Arrays.asList("Node.js", "Express.js", "NestJS"));
+        }};
+        
+        List<String> devOps = Arrays.asList("Docker🐳", "GitHub Actions", "Grafana", "Prometheus", "Loki", "CI/CD", "Nginx");
+        
+        Map<String, List<String>> cloudServices = new HashMap<String, List<String>>() {{
+            put("aws", Arrays.asList("EC2", "S3", "Lambda", "CloudWatch", "RDS"));
+        }};
+        
+        List<String> databases = Arrays.asList("MongoDB", "Redis", "MySQL");
+        List<String> misc = Arrays.asList("Postman", "Swagger", "Socket.IO", "WebSockets", "ZEGOCLOUD", "Twilio", "IoT sensors");
+        List<String> generativeAI = Arrays.asList("Chatbot", "GPT");
+    }
+
+    static class Architecture {
+        List<String> backEnd = Arrays.asList("monolithic", "microservices", "serverless");
+        List<String> devOps = Arrays.asList("Docker Compose", "CloudWatch Dashboards", "Prometheus Monitoring");
+        List<String> databases = Arrays.asList("Relational", "NoSQL", "In-memory");
+    }
+
+    public static void main(String[] args) {
+        Samiran samiran = new Samiran();
+        System.out.println("Fun Fact: " + samiran.funFact);
+    }
+}
+
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
