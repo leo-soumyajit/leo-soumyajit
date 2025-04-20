@@ -1,12 +1,12 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> নমস্কার (Namaste)🙏🏻, I'm Samiran! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> নমস্কার (Namaste)🙏🏻, I'm Soumyajit Banerjee! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>A passionate self-taught backend developer from india. my passion for software lies with dreaming up ideas and making them come true.
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/SmrSmt147270)
-[![Linkedin: anmol](https://img.shields.io/badge/-samiran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samiransamanta/)](https://www.linkedin.com/in/samiransamanta/)
-![GitHub followers](https://img.shields.io/github/followers/Samiran2004?label=Follow&style=social)
+[![Linkedin: anmol](https://img.shields.io/badge/-samiran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samiransamanta/)]([https://www.linkedin.com/in/samiransamanta/](https://www.linkedin.com/in/soumyajit-banerjee-274b1229a/))
+[![Linkedin: anmol](https://img.shields.io/badge/-samiran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samiransamanta/)]()
+![GitHub followers](https://img.shields.io/github/followers/leo-soumyajit?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://samiransamantaportfolio.netlify.app/)](https://samiransamantaportfolio.netlify.app/)
 
 <a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="Samiran2004 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
