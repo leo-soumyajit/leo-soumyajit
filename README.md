@@ -4,10 +4,16 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-soumyajit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/soumyajit-banerjee-274b1229a/)]((https://www.linkedin.com/in/soumyajit-banerjee-274b1229a/))
-[![Linkedin: anmol](https://img.shields.io/badge/-samiran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samiransamanta/)]()
-![GitHub followers](https://img.shields.io/github/followers/leo-soumyajit?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://samiransamantaportfolio.netlify.app/)](https://samiransamantaportfolio.netlify.app/)
+<p align="left">
+<a href="https://linkedin.com/in/soumyajit-banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyajit-banerjee" height="30" width="40" /></a>
+<a href="https://fb.com/soumyajit banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soumyajit banerjee" height="30" width="40" /></a>
+<a href="https://instagram.com/leo_soumyajit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leo_soumyajit" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/soumyajit_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumyajit_2005" height="30" width="40" /></a>
+</p>
+
+
+
+
 
 <a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="Samiran2004 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
