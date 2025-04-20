@@ -15,43 +15,46 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```java
+import java.util.*;
 
-public class Samiran {
+public class Soumyajit {
+    String[] pronouns = {"He", "Him"};
+    List<String> code = Arrays.asList("C", "Java", "Python", "Bash");
+    List<String> askMeAbout = Arrays.asList("spring boot dev", "system design", "DevOps", "cloud", "CS fundamentals");
+    Technologies technologies = new Technologies();
+    Architecture architecture = new Architecture();
+    String currentFocus = "Building a smart healthcare system (HealthHub) with AI, and cloud";
+    String funFact = "Can debug complex backend flows while sipping chai ☕ and listening to Lo-Fi beats!";
+
+    static class Technologies {
+        List<String> frontEnd = Arrays.asList("HTML", "CSS");
+        
+        Map<String, List<String>> backEnd = new HashMap<String, List<String>>() {{
+            put("Java", Arrays.asList("SpringBoot", Spring Sequrity(JWT | oAuth)));
+        }};
+        
+        List<String> devOps = Arrays.asList("Docker🐳", "Aws", "Kubernetes☸️", "Linux🐧", "Git");
+        
+        
+        
+        List<String> databases = Arrays.asList("PostgresSQL🐘", "Redis", "MySQL🐬");
+        List<String> misc = Arrays.asList("Postman🐦‍⬛", "Swagger", "ELK Stack", "Netlify");
+        List<String> generativeAI = Arrays.asList("Chatbot", "GPT");
+    }
+
+    static class Architecture {
+        List<String> backEnd = Arrays.asList("monolithic", "microservices");
+        List<String> databases = Arrays.asList("Relational", "In-memory");
+    }
+
     public static void main(String[] args) {
-        String[] pronouns = {"He", "Him"};
-        String[] code = {"TypeScript", "JavaScript", "Java", "Python", "Bash"};
-        String[] askMeAbout = {"backend dev", "system design", "DevOps", "IoT", "cloud", "CS fundamentals"};
-
-        String[] frontEnd = {"HTML", "CSS"};
-
-        String[] backEndJS = {"Node.js", "Express.js", "NestJS"};
-
-        String[] devOps = {"Docker🐳", "GitHub Actions", "Grafana", "Prometheus", "Loki", "CI/CD", "Nginx"};
-
-        String[] aws = {"EC2", "S3", "Lambda", "CloudWatch", "RDS"};
-
-        String[] databases = {"MongoDB", "Redis", "MySQL"};
-
-        String[] misc = {"Postman", "Swagger", "Socket.IO", "WebSockets", "ZEGOCLOUD", "Twilio", "IoT sensors"};
-
-        String[] generativeAI = {"Chatbot", "GPT"};
-
-        String[] architectureBackEnd = {"monolithic", "microservices", "serverless"};
-        String[] architectureDevOps = {"Docker Compose", "CloudWatch Dashboards", "Prometheus Monitoring"};
-        String[] architectureDatabases = {"Relational", "NoSQL", "In-memory"};
-
-        String currentFocus = "Building a smart healthcare system (Medicon) with AI, IoT, and cloud";
-        String funFact = "Can debug complex backend flows while sipping chai ☕ and listening to Lo-Fi beats!";
-
-        System.out.println("Hi, I'm Samiran 👋");
-        System.out.println("Pronouns: " + String.join("/", pronouns));
-        System.out.println("Languages I Code In: " + String.join(", ", code));
-        System.out.println("Ask Me About: " + String.join(", ", askMeAbout));
-        System.out.println("Fun Fact: " + funFact);
-        System.out.println("Current Focus: " + currentFocus);
+        Soumyajit soumyajit = new Soumyajit();
+        System.out.println("Fun Fact: " + soumyajit.funFact);
     }
 }
 
+```
 
 
 
@@ -59,7 +62,7 @@ public class Samiran {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <br/>
-- <img src="https://profile-counter.glitch.me/{Samiran2004}/count.svg" alt="Samiran2004 :: Visitor's Count" />
+- <img src="https://profile-counter.glitch.me/{leo-soumyajit}/count.svg" alt="leo-soumyajit :: Visitor's Count" />
 
 **languages and tools:**  
 
@@ -149,17 +152,16 @@ public class Samiran {
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samiran2004&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-soumyajit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Samiran2004&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=leo-soumyajit&theme=juicyfresh&no-bg=true" />
 
 📈 **my github stats:**
-![Samiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samiran2004&show_icons=true&theme=radical)
+![Samiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-soumyajit&show_icons=true&theme=radical)
 <!-- TODO-IST:END -->
 
-[![Samiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samiran2004&theme=dracula)](https://github.com/Samiran2004/github-readme-activity-graph)
+[![Samiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leo-soumyajit&theme=dracula)](https://github.com/leo-soumyajit/github-readme-activity-graph)
 
-[![An image of @samiran2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samiran2004)](https://holopin.io/@samiran2004)
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
