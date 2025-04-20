@@ -66,30 +66,20 @@ public class Soumyajit {
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png"></code>
-<code><img height="20" src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png"></code>
-<code><img height="20" src="https://i.imgur.com/zINUxVf.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/2048px-WebStorm_Icon.svg.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"></code>
-<code><img height="20" src="https://redis.io/wp-content/uploads/2024/04/Logotype.svg?auto=webp&quality=85,75&width=120"></code>
-<code><img height="20" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg?auto=webp&quality=85,75&width=120"></code>
-<code><img height="20" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg?auto=webp&quality=85,75&width=120"></code>
-<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=80&id=50ZQHdJTmPqw&format=png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=96&id=Ei4ZhVQvIMHE&format=png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=48&id=9uVrNMu3Zx1K&format=png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=80&id=HF4xGsjDERHf&format=png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code>
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+
+  <!-- IntelliJ IDEA -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" />
+
+  <!-- ELK Stack (Elasticsearch shown) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="ELK Stack" width="40" height="40" />  </a> </p>
 
 <br>
 
@@ -101,9 +91,9 @@ public class Soumyajit {
   <tr>
     <td align="center" width="96">
 <!--       <a href=""> -->
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png" width="48" height="48" alt="Spring Boot" title="Spring Boot" />
 <!--       </a> -->
-      <br>TypeScript
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
 <!--       <a href="#macropower-tech"> -->
@@ -137,15 +127,15 @@ public class Soumyajit {
     </td>
     <td align="center"  width="96">
 <!--       <a href="#macropower-tech"> -->
-        <img src="https://img.icons8.com/?size=96&id=Ei4ZhVQvIMHE&format=png" alt="Prometheus" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
 <!--       </a> -->
-      <br>Prometheus
+      <br>MySQL
     </td>
     <td align="center" width="96">
 <!--       <a href="#macropower-tech" > -->
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="48" height="48" alt="Java" />
 <!--       </a> -->
-      <br>Grafana
+      <br>Java
     </td>
   </tr>
 </table>
@@ -157,10 +147,10 @@ public class Soumyajit {
 <img src="https://github-profile-trophy.vercel.app/?username=leo-soumyajit&theme=juicyfresh&no-bg=true" />
 
 📈 **my github stats:**
-![Samiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-soumyajit&show_icons=true&theme=radical)
+![Soumyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-soumyajit&show_icons=true&theme=radical)
 <!-- TODO-IST:END -->
 
-[![Samiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leo-soumyajit&theme=dracula)](https://github.com/leo-soumyajit/github-readme-activity-graph)
+[![Soumyajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leo-soumyajit&theme=dracula)](https://github.com/leo-soumyajit/github-readme-activity-graph)
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
