@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-samiran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samiransamanta/)]([https://www.linkedin.com/in/samiransamanta/](https://www.linkedin.com/in/soumyajit-banerjee-274b1229a/))
+[![Linkedin: anmol](https://img.shields.io/badge/-soumyajit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/soumyajit-banerjee-274b1229a/)]((https://www.linkedin.com/in/soumyajit-banerjee-274b1229a/))
 [![Linkedin: anmol](https://img.shields.io/badge/-samiran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samiransamanta/)]()
 ![GitHub followers](https://img.shields.io/github/followers/leo-soumyajit?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://samiransamantaportfolio.netlify.app/)](https://samiransamantaportfolio.netlify.app/)
