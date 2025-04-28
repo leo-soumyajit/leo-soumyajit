@@ -23,7 +23,7 @@ import java.util.*;
 
 public class Soumyajit {
     String[] pronouns = {"He", "Him"};
-    List<String> code = Arrays.asList("C", "Java", "Python", "Bash");
+    List<String> code = Arrays.asList("C", "Java", "Python", "Kotlin", "Bash");
     List<String> askMeAbout = Arrays.asList("spring boot dev", "system design", "DevOps", "cloud", "CS fundamentals");
     Technologies technologies = new Technologies();
     Architecture architecture = new Architecture();
@@ -34,7 +34,7 @@ public class Soumyajit {
         List<String> frontEnd = Arrays.asList("HTML", "CSS");
         
         Map<String, List<String>> backEnd = new HashMap<String, List<String>>() {{
-            put("Java", Arrays.asList("SpringBoot", Spring Sequrity(JWT | oAuth)));
+            put("Java", Arrays.asList("SpringBoot");
         }};
         
         List<String> devOps = Arrays.asList("Docker🐳", "Aws", "Kubernetes☸️", "Linux🐧", "Git");
