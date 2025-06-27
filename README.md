@@ -1,5 +1,18 @@
  
-<img src="https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" />
+  <br />
+  <strong>Welcome to My GitHub Profile!</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/leo-soumyajit">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Backend+Developer+%7C+Java+%26+Spring+Boot;Code+Robust+Backends+Monolithic+%26+Microservices;DevOps+Tools:+Docker,+AWS,+K8s,+Git,+Linux;Exploring+Android+Development+with+Kotlin;Practicing+DSA+in+Java+Daily;&font=Fira+Code&center=true&width=700&height=120&color=F57C00&vCenter=true&size=24">
+  </a>
+</p>
+
+
+
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> নমস্কার (Namaste)🙏🏻, I'm Soumyajit Banerjee! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
