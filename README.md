@@ -201,7 +201,7 @@ public class Soumyajit {
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/leo-soumyajit/LinkedIn-Microservice">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=leo-soumyajit&repo=E-Grocery-Store&theme=nightowl&show_owner=true" alt="" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=leo-soumyajit&repo=LinkedIn-Microservice&theme=nightowl&show_owner=true" alt="" />
         </a>
       </p>
     </td>
