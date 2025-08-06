@@ -255,6 +255,7 @@ public class Soumyajit {
 <p align="center">
   <img src="https://res.cloudinary.com/dkgwi1xvx/image/upload/v1753241819/images_pnyhqf.png" alt="Postman API Fundamentals Student Expert Badge" width="120"/>
   <img src="https://res.cloudinary.com/dkgwi1xvx/image/upload/v1753242115/Screenshot_2025-07-23_085934-removebg-preview_ad00nz.png" alt="Open Source Connect India Contributor Badge" width="140"/>
+ <img src="https://res.cloudinary.com/dkgwi1xvx/image/upload/v1754512536/Contributor_s_badge_qxqveo.jpg" alt="GSSoC 2025 Contributor Badge" width="120"/>
 </p>
 
 
