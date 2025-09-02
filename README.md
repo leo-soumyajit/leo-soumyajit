@@ -1,5 +1,4 @@
- 
-<p align="center">
+ <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" />
   <br />
   <strong>Welcome to My GitHub Profile!</strong>
