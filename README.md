@@ -3,7 +3,6 @@
   <br />
   <strong>Welcome to My GitHub Profile!</strong>
 </p>
-
 <p align="center">
   <a href="https://github.com/leo-soumyajit">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Backend+Developer+%7C+Java+%26+Spring+Boot;Code+Robust+Backends+Monolithic+%26+Microservices;DevOps+Tools:+Docker,+AWS,+K8s,+Git,+Linux;Exploring+Android+Development+with+Kotlin;Practicing+DSA+in+Java+Daily;&font=Fira+Code&center=true&width=700&height=120&color=F57C00&vCenter=true&size=24">
